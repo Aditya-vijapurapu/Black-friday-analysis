@@ -2,14 +2,14 @@
 
 This repository contains an end-to-end **Exploratory Data Analysis (EDA)** project on the Black Friday sales dataset. The goal is to extract actionable insights, visualize customer buying behavior, and uncover patterns that can inform retail marketing and inventory strategies.
 
-## 🛍️ Project Objective
+## Project Objective
 
 - **Understand purchasing trends** during the Black Friday period.
 - **Analyze customer demographics** and their spending behavior.
 - **Identify key features** that influence sales value.
 - **Build visual narratives** to support data-driven retail decisions.
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 - The dataset contains transaction records from an e-commerce retailer during Black Friday sales.
 - Key fields include:
@@ -18,7 +18,7 @@ This repository contains an end-to-end **Exploratory Data Analysis (EDA)** proje
   - Purchase amount
 - Dataset size: ~550k transactions
 
-## 🧠 Key Technologies Used
+## Key Technologies Used
 
 | Task | Tools & Libraries |
 |------|------------------|
@@ -27,7 +27,7 @@ This repository contains an end-to-end **Exploratory Data Analysis (EDA)** proje
 | Statistical Summary | Pandas profiling / manual aggregates |
 | Reporting | Jupyter Notebook |
 
-## 🔍 Analysis Workflow
+## Analysis Workflow
 
 1. **Data Cleaning**
    - Identify and handle missing values
@@ -49,7 +49,7 @@ This repository contains an end-to-end **Exploratory Data Analysis (EDA)** proje
    - Heatmaps and relationship charts
    - Trend identification and narrative building
 
-## 📌 Key Insights
+## Key Insights
 
 - **Top spending segments** based on demographics
 - Seasonal or category-based purchasing patterns
