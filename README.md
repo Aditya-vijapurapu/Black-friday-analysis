@@ -57,7 +57,7 @@ This repository contains an end-to-end **Exploratory Data Analysis (EDA)** proje
 - Customer behavior trends informing upsell/cross-sell strategies
 
 ## 📁 Repository Structure
-Black-Friday-DataAnalysis/
+Black-Friday-DataAnalysis
 │
 ├── data/
 │ ├── train.csv
